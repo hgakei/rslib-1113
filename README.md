@@ -1,8 +1,8 @@
 # Steps to reproduce issue #1113
 
-not a Monorepo project
+not a monorepo project
 
-# 1. cd shared fold
+# 1. cd shared
 
 ```
 pnpm i
