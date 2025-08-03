@@ -1,5 +1,7 @@
 # Steps to reproduce issue #1113
 
+not a Monorepo project
+
 # 1. cd shared fold
 
 ```
